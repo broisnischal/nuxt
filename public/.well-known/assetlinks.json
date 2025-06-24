@@ -1,9 +1,12 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "pro.nischal.merodocs",
-      "sha256_cert_fingerprints":
-      ["91:8F:67:68:1F:D4:D6:72:EB:E4:19:AF:60:7F:69:8B:F1:4D:63:2E:C2:24:00:58:40:46:A1:79:18:51:39:C3"]
-    }
-}]
+{
+  "relation": [
+    "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "pro.nischal.loop",
+    "sha256_cert_fingerprints": [
+      "7D:D3:F1:2E:BA:CE:40:BA:7A:5E:B3:9A:F5:01:62:61:1F:28:2B:85:04:3A:2A:E1:57:BD:8F:48:93:33:83:F4"
+    ]
+  }
+}
